@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/roweoil-front/static/css/main.f7231462.css",
-    "main.js": "/roweoil-front/static/js/main.c21826cd.js",
+    "main.css": "/roweoil-front/static/css/main.9a6727d5.css",
+    "main.js": "/roweoil-front/static/js/main.c22be370.js",
     "static/media/bebasneuecyrillic.ttf": "/roweoil-front/static/media/bebasneuecyrillic.f39fe92d35bac3b2fe60.ttf",
     "static/media/logo_kzn.svg": "/roweoil-front/static/media/logo_kzn.938de3ac0d6ef7d48431c13da28d4ee1.svg",
     "static/media/rowe.svg": "/roweoil-front/static/media/rowe.fab547fb51bc039b9f208bb4af12ae7b.svg",
     "index.html": "/roweoil-front/index.html",
     "static/media/MenuIcon.svg": "/roweoil-front/static/media/MenuIcon.49fd9a2ccb57aa08a4f2d39c90d219d2.svg",
-    "main.f7231462.css.map": "/roweoil-front/static/css/main.f7231462.css.map",
-    "main.c21826cd.js.map": "/roweoil-front/static/js/main.c21826cd.js.map"
+    "main.9a6727d5.css.map": "/roweoil-front/static/css/main.9a6727d5.css.map",
+    "main.c22be370.js.map": "/roweoil-front/static/js/main.c22be370.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7231462.css",
-    "static/js/main.c21826cd.js"
+    "static/css/main.9a6727d5.css",
+    "static/js/main.c22be370.js"
   ]
 }
