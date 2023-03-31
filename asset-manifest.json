@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/roweoil-front/static/css/main.88abd6d3.css",
-    "main.js": "/roweoil-front/static/js/main.ecd7290b.js",
-    "static/media/bebasneuecyrillic.ttf": "/roweoil-front/static/media/bebasneuecyrillic.f39fe92d35bac3b2fe60.ttf",
-    "static/media/logo_kzn.svg": "/roweoil-front/static/media/logo_kzn.938de3ac0d6ef7d48431c13da28d4ee1.svg",
-    "static/media/rowe.svg": "/roweoil-front/static/media/rowe.fab547fb51bc039b9f208bb4af12ae7b.svg",
-    "index.html": "/roweoil-front/index.html",
-    "static/media/MenuIcon.svg": "/roweoil-front/static/media/MenuIcon.236f5f009cd39a891ef1cd49f4a59a0a.svg",
-    "static/media/chevron-down.svg": "/roweoil-front/static/media/chevron-down.3ecf66f33e3b2a7bf0a7.svg",
-    "static/media/chevron-right.svg": "/roweoil-front/static/media/chevron-right.1fdd01970e8c64526d9a.svg",
-    "static/media/mark.svg": "/roweoil-front/static/media/mark.b21981d13470739ee28c.svg",
-    "main.88abd6d3.css.map": "/roweoil-front/static/css/main.88abd6d3.css.map",
-    "main.ecd7290b.js.map": "/roweoil-front/static/js/main.ecd7290b.js.map"
+    "main.css": "/static/css/main.80885a3d.css",
+    "main.js": "/static/js/main.3a630995.js",
+    "static/media/bebasneuecyrillic.ttf": "/static/media/bebasneuecyrillic.f39fe92d35bac3b2fe60.ttf",
+    "static/media/logo_kzn.svg": "/static/media/logo_kzn.938de3ac0d6ef7d48431c13da28d4ee1.svg",
+    "static/media/rowe.svg": "/static/media/rowe.fab547fb51bc039b9f208bb4af12ae7b.svg",
+    "index.html": "/index.html",
+    "static/media/MenuIcon.svg": "/static/media/MenuIcon.236f5f009cd39a891ef1cd49f4a59a0a.svg",
+    "static/media/chevron-down.svg": "/static/media/chevron-down.3ecf66f33e3b2a7bf0a7.svg",
+    "static/media/chevron-right.svg": "/static/media/chevron-right.1fdd01970e8c64526d9a.svg",
+    "static/media/mark.svg": "/static/media/mark.b21981d13470739ee28c.svg",
+    "main.80885a3d.css.map": "/static/css/main.80885a3d.css.map",
+    "main.3a630995.js.map": "/static/js/main.3a630995.js.map"
   },
   "entrypoints": [
-    "static/css/main.88abd6d3.css",
-    "static/js/main.ecd7290b.js"
+    "static/css/main.80885a3d.css",
+    "static/js/main.3a630995.js"
   ]
 }
